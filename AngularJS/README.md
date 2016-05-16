@@ -1,6 +1,5 @@
 # Staying Sharp with Angular.js Watch Us Build
 
-Editing so we can test commits
 
 *We changed the name of this series to "Watch Us Build," so you may see an occasional reference to its former name ("Soup to Bits") in this repository.*
 
@@ -12,4 +11,4 @@ There is a branch called `starting` that can be used as a starting point for the
 
 I used node `0.10.28` at the time of writing the app. We're only using express and lodash, so any version of node (or io.js) should work. You simply need to type: `npm start` in your terminal to start it up.
 
-Editing so we can test commits
+Editing so we can test conflicts!
