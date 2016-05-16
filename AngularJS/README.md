@@ -1,5 +1,7 @@
 # Staying Sharp with Angular.js Watch Us Build
 
+Editing so we can test commits
+
 *We changed the name of this series to "Watch Us Build," so you may see an occasional reference to its former name ("Soup to Bits") in this repository.*
 
 This repo contains the app built in the [Watch Us Build episode](https://www.codeschool.com/screencasts/build-a-note-taking-app-with-angularjs) for the [Staying Sharp with Angular.js course](https://www.codeschool.com/courses/staying-sharp-with-angular-js).
